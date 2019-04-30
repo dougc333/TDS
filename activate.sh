@@ -1,5 +1,5 @@
 #!/bin/bash
 
-source activate TDS
+source /anaconda3/bin/activate TDS
 jupyter notebook --no-browser
 
