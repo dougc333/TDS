@@ -1,0 +1,3 @@
+[console_scripts]
+aa = pt.main:main
+
