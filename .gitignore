@@ -1,5 +1,6 @@
 lstm_outliers/SFA/*
 **/SFA
 unet/*.tar.gz
+unet/*.h5
 unet/annotations/*
 unet/images/*
