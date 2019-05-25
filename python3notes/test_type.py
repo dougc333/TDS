@@ -36,5 +36,11 @@ print(type(y))
 print("y1=B()")
 y1=B()
 
+print("--------")
+print(x.__repr__())
+print(x1.__repr__())
+print(y.__repr__())
+print(y1.__repr__())
+
 
 

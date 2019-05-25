@@ -22,4 +22,4 @@ class Singleton:
 
 x = Singleton()
 x.val="a"
-print(x)
+print(x.__repr__())
