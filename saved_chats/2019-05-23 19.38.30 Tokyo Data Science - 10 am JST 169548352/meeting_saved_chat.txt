@@ -1,0 +1,27 @@
+18:01:43	 From Doug Chang : I can volunteer to help hiim 8pm
+18:01:44	 From Doug Chang : After class
+18:01:53	 From Doug Chang : Less time on admin
+18:02:06	 From Doug Chang : make that an exercise for someone
+18:03:09	 From Doug Chang : He wants to make the hw assignments installable modules
+18:03:32	 From Doug Chang to Niha (Privately) : 8pm?
+18:03:48	 From Doug Chang to Niha (Privately) : We can do.a review on where you are.....
+18:12:38	 From Doug Chang to Krishnamurti Subramanian (Privately) : https://zoom.us/j/609965079 8pm we cn screen share your computer and debug
+18:13:13	 From Krishnamurti Subramanian to Doug Chang (Privately) : ok, thanks. I sent you an email with the error
+18:16:08	 From Doug Chang to Krishnamurti Subramanian (Privately) : You can delete the anaconda3 directory and reinstall anaconda3 then recreate your condo env and install numpy
+18:16:12	 From Niha to Doug Chang (Privately) : Sorry I misjudged my work. I just wasn't able to find time to dedicate to this for the past couple of days. I'll spend some time on it this weekend but right now I am figuring out how to load the MNIST data
+18:16:36	 From Niha to Doug Chang (Privately) : I think it would be worth your time if I try to make some more progress first
+18:18:47	 From Doug Chang to Niha (Privately) : Ok… !!! There are 2 parts to mnist loading. 1 part, the old way about 2y old is to download mnist in gz files, decompress and read each one into memory, splitting each into training and test sets. The other way is to use the torch utilities which does all this for you. Either way good but the long way is good wo using the torch utils bc you will have to have those skills for dealing w/your own images. Good idea!!! Ok we can chat next week.
+18:33:15	 From fabinger : We are having a 5 minute break until 10:38 Japan time.
+18:33:43	 From Niha to Doug Chang (Privately) : Ok sounds good. Yes I saw that pytorch can load the data but I think it's better to know how to load and format this kind of data. Thanks!
+18:35:10	 From Doug Chang to Niha (Privately) : yes 100% agree w/you. The work habits are what will make you successful. If you take shortcuts then the managers will never trust you. They have seen it all before and they won’t hire people that don’t work the right way
+18:35:50	 From Manuel : ok thanks
+18:38:40	 From fabinger : tokyodatascience.com
+18:38:51	 From fabinger : fabinger@gmail.com
+18:54:26	 From Doug Chang : those are good projects
+19:07:54	 From fabinger : We are having a 10 minute break until 11:15 Japan time.
+19:16:30	 From fabinger : https://arxiv.org/pdf/1705.08039.pdf
+19:23:24	 From Doug Chang : Mind blown
+19:29:43	 From fabinger : https://sociologicalscience.com/download/volume%201/june/finding-cultural-holes.pdf
+19:44:56	 From fabinger : We are having a 5 minute break until 11:49 Japan time.
+19:45:08	 From fabinger : Then we’ll continue until 12:05.
+20:03:27	 From Doug Chang : good lecture.

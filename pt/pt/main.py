@@ -24,18 +24,24 @@ class Attrs:
 @click.pass_context
 def main(context, config_file, config_json, config_module, include):
     print("main main main main main main is here do you see me")
-    print(context)
+    print("context:",context)
+    print("config_file:",config_file)
+    print("config_json:",config_json)
+    print("config_module:",config_module)
+    print("include:",include)
 
     for path in include or []:
+        print("add_include path:",path)
         add_include(path)
 
     context.obj = Attrs()
+    print("context.obj from Attrs:",context.obj)
 
     def load_config():
         # Cache the config object so it can be accessed multiple times
-        print("main load_config")
+        print("main load_config cache? ")
         if not hasattr(context.obj, "config"):
-            print()
+            print("no attrs")
             if config_module:
                 print("main load_config config_module True")
                 context.obj.config = import_module(config_module).config
@@ -50,10 +56,8 @@ def main(context, config_file, config_json, config_module, include):
                 else:
                     click.echo("No config file specified, reading from stdin")
                     config = json.load(sys.stdin)
-                    print("json config load:", config)
-                print("parse_config coming")
                 context.obj.config = parse_config(config)
-                print("return context.obj.config")
+                print("context.obj.config",config.obj.config)
         return context.obj.config
 
     context.obj.load_config = load_config

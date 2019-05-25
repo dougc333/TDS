@@ -5,9 +5,9 @@ import os
 from collections import OrderedDict
 
 import torch
-from pytext.config import PyTextConfig, config_to_json, pytext_config_from_json
-from pytext.data import CommonMetadata
-from pytext.models import Model
+from pt.config import PyTextConfig, config_to_json, pytext_config_from_json
+#from py.data import CommonMetadata
+#from pt.models import Model
 
 from .task import create_task
 
