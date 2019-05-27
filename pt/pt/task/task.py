@@ -34,8 +34,6 @@ def create_task(task_config, metadata=None, model_state=None):
     """
     print("\n create_task calling create component Task: ", ComponentType.TASK, " task_config:",task_config)
     print("\n metadata:", metadata, " model_state:",model_state)
-    print("aaaaaaaaaaa")
-    print("aaaaaaaaaaa")
     return create_component(ComponentType.TASK, task_config, metadata, model_state)
 
 

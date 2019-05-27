@@ -6,8 +6,8 @@ from collections import OrderedDict
 
 import torch
 from pt.config import PyTextConfig, config_to_json, pytext_config_from_json
-#from py.data import CommonMetadata
-#from pt.models import Model
+from py.data import CommonMetadata
+from pt.models import Model
 
 from .task import create_task
 
