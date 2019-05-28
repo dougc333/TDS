@@ -8,3 +8,5 @@ malaria/*.zip
 malaria/malaria/*
 malaria/kaggle/*
 malaria/malaria/images/*
+malaria/malaria_cell_classification_code/*
+
