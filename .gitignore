@@ -4,3 +4,7 @@ unet/*.tar.gz
 unet/*.h5
 unet/annotations/*
 unet/images/*
+malaria/*.zip
+malaria/malaria/*
+malaria/kaggle/*
+
