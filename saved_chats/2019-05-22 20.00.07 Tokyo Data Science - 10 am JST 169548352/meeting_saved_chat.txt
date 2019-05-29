@@ -1,0 +1,19 @@
+18:27:53	 From Doug Chang to promi (Privately) : hi you have work interest in time series or AR models? We can talk about separate working group on this topic if so. All sensors need this.
+18:36:14	 From md.imbesat.hassan.rizvi@hp.com : Z2 is not fized in Theta_tilde
+18:36:36	 From md.imbesat.hassan.rizvi@hp.com : So the expectation in second case is over all Z2
+18:46:04	 From Niha : What is an example for e again? 
+18:51:54	 From Michal Fabinger : We are having a 10 minute break until 11:02 Japan time.
+18:52:07	 From Michal Fabinger : tokyodatascience.com fabinger@gmail.com
+18:56:14	 From Paul : https://www.google.com/url?sa=t&source=web&rct=j&url=https://cran.r-project.org/web/packages/causaleffect/vignettes/causaleffect.pdf&ved=2ahUKEwj5sb23xbDiAhXg6nMBHcuoBIcQFjACegQIBxAB&usg=AOvVaw1kLCfNRRGrZo3J7WkUnhNG&cshid=1558576440376
+18:56:40	 From Paul : big read but section 2 explains and then shows how to implement in R
+18:58:43	 From m4nu3lvm : has the session finished?
+18:59:22	 From Michal Fabinger : Not finishes. We are having a break.
+18:59:30	 From Michal Fabinger : We’ll resume in 3 minutes.
+19:00:08	 From m4nu3lvm : ok thank u
+19:34:25	 From Niha : Are 300 dimensions enough to capture all the words?
+19:38:18	 From Michal Fabinger : We are having a 4 minute break until 11:42 Japan time.
+19:46:21	 From promi to Doug Chang (Privately) : Hi,  I have not gone over AR models as yet. I was interested to research and understand as well. You mentioned some lectures on that !. Thanks.
+19:53:04	 From Doug Chang : Does this work for Japanese?
+19:58:37	 From Michal Fabinger : https://lvdmaaten.github.io/tsne/
+19:58:47	 From md.imbesat.hassan.rizvi@hp.com : https://projector.tensorflow.org/
+19:59:06	 From md.imbesat.hassan.rizvi@hp.com : Google's projector can also be used

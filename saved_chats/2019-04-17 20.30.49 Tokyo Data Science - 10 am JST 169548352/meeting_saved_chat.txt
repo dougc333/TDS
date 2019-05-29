@@ -1,0 +1,104 @@
+18:03:56	 From Doug Chang : jagrut is new
+18:04:05	 From Doug Chang : he is good
+18:04:44	 From Doug Chang : Maybe a quick review of the material, exp the risk slide. Cant get that anywhere
+18:05:07	 From Doug Chang : And the unbiased E(g)=E(ghat)
+18:05:56	 From aruj : Aruj is new
+18:19:15	 From Irina Max : Sorry, Im late
+18:21:57	 From Irina Max : where we are?
+18:22:23	 From Salil Mishra : You missed nothing :)
+18:22:25	 From paulmaddela : Just started
+18:22:50	 From Michal Fabinger : https://www.dropbox.com/s/gkxn2gj2d72y0iv/linear_model.ipynb?dl=0
+18:26:05	 From Ernesto Castillo : great 
+18:28:25	 From Doug Chang to Irina Max (Privately) : We have 3 new people so we started w another intro.
+18:28:42	 From Doug Chang to Irina Max (Privately) : And we are going to cover the risk functions and what unbiased means
+18:28:45	 From Doug Chang to Irina Max (Privately) : over a distribution
+18:29:54	 From Doug Chang to Jagrut (Privately) : What brings you here?
+18:30:04	 From Doug Chang to Jagrut (Privately) : marshall is going to contribute some material
+18:30:13	 From Doug Chang to Jagrut (Privately) : How to do optimization in pytorch using queues
+18:30:17	 From Doug Chang to Jagrut (Privately) : for io bounded jobs
+18:30:20	 From Doug Chang to Jagrut (Privately) : Not on the web
+18:30:33	 From Doug Chang to Jagrut (Privately) : he is teaching at Montana state or some school up where he is living
+18:31:04	 From Irina Max to Doug Chang (Privately) : thanks Doug, I miss intro again :( 
+18:31:30	 From Doug Chang to Irina Max (Privately) : he didnt start intro yet
+18:31:36	 From Michal Fabinger : fabinger@gmail.com
+18:31:42	 From Jagrut to Doug Chang (Privately) : Hey Doug - Was just curious to see what we are going through.
+18:32:23	 From Salil Mishra : Yeah, also extended the notebook for polynomial functions
+18:32:44	 From Jagrut to Doug Chang (Privately) : This looks like an excellent course, if someone has the time to go through this.
+18:37:31	 From Doug Chang to Jagrut (Privately) : He is much better than udacity or Andrew ng
+18:37:39	 From Doug Chang to Jagrut (Privately) : Stanford grad phd
+18:37:45	 From Doug Chang to Jagrut (Privately) : very good
+18:38:39	 From Doug Chang to Jagrut (Privately) : He is the only one that covers this material using statistical learning theory
+18:39:30	 From Doug Chang : no I am good
+19:02:30	 From Salil Mishra : http://ruder.io/optimizing-gradient-descent/ 
+19:02:45	 From Salil Mishra : https://distill.pub/2017/momentum/
+19:04:00	 From Salil Mishra : Can be treated as reference, will also post in slack under resources channel
+19:04:22	 From akuaAxAyyAtIzEL6wr3VH95jznH2vTlVtRQhh5VIMwZch1fKpDATWtgc0+ip+XdpEjJli+yk3XTEWMK/9eAFZA== : Can someone share slack channel?
+19:06:05	 From Michal Fabinger : tokyodatascience.com
+19:06:29	 From Michal Fabinger : https://www.dropbox.com/s/gkxn2gj2d72y0iv/linear_model.ipynb?dl=0
+19:09:17	 From Doug Chang : Look random
+19:17:56	 From Irina Max : big different
+19:23:13	 From Irina Max : element wise squared operation
+19:27:31	 From Doug Chang to Irina Max (Privately) : You smart
+19:28:19	 From Doug Chang to Jagrut (Privately) : god damn
+19:28:23	 From Doug Chang to Jagrut (Privately) : Good clean fun
+19:28:49	 From Jagrut to Doug Chang (Privately) : agree, he’s very good and also great teaching style
+19:29:02	 From Doug Chang to Jagrut (Privately) : yeah he is very paient
+19:29:09	 From Doug Chang to Jagrut (Privately) : solid
+19:29:17	 From Doug Chang to Jagrut (Privately) : Can see why he was popular in japan
+19:29:47	 From Doug Chang to Jagrut (Privately) : almost over
+19:29:51	 From Doug Chang to Jagrut (Privately) : Goes so fast
+19:30:08	 From Jagrut to Doug Chang (Privately) : :)
+19:37:52	 From Richard : if we do this, can we avoid the animation part?
+19:38:00	 From Michal Fabinger : https://www.dropbox.com/s/w1k61x16dbhbklw/OptimizerSlides.pdf?dl=0
+19:38:00	 From Irina Max to Doug Chang (Privately) : thanks :) I just try to learn it properly 
+19:40:01	 From Irina Max : can we have link to the model 2?
+19:40:52	 From Irina Max : I see, i did the same actually
+19:49:34	 From Irina Max : yes
+19:49:40	 From abhishek : yes
+19:50:33	 From Irina Max : but I am R programmer, python still at learning process :)
+19:51:27	 From Irina Max : very good
+19:51:44	 From Richard : @Irina, matplotlib is worse than ggplot, but everything else is fairly similar (well, apart from 0 indexing)
+19:58:15	 From Richard : would normalizing the data beforehand alleviate this issue?or is this an issue distinct from having dimensions of essentially different scales?
+20:01:24	 From Ernesto Castillo : yes, let's continue with optimizers
+20:02:24	 From abhishek : We can discuss some projects and form some grps based on preference and start working on projects
+20:02:32	 From Irina Max : @Richard, I know, I do python last year a lot particularly with deep learning, but still in love with R :)
+20:03:00	 From paulmaddela : R for me is the. Best language. Quiet. Expressive python not. So mucj
+20:07:06	 From akuaAxAyyAtIzEL6wr3VH95jznH2vTlVtRQhh5VIMwZch1fKpDATWtgc0+ip+XdpEjJli+yk3XTEWMK/9eAFZA== : I want to work on sematic segmentation
+20:07:18	 From Prafful : I want to work on NLP
+20:07:30	 From paulmaddela : 2 ppl for NLP
+20:08:01	 From Prafful : I do have a project in mind as well
+20:08:02	 From mohammad haizad : any projects work for me
+20:08:12	 From Richard : 1 for GANsbut really, anything?
+20:08:24	 From Irina Max : I would like to do NLP as well. 
+20:09:16	 From abhishek : NLP +1
+20:10:14	 From Irina Max : we can try both R and Python :) I did CNN tensorflow + Keras in R
+20:11:00	 From Irina Max : Let make a study group for homework!
+20:11:22	 From Ernesto Castillo : Reinforcement learning is something I am interested
+20:12:28	 From paulmaddela : Grounded conversational models are cool too..
+20:12:50	 From Shubham : sequential data prediction is also ineteresting but we might need some background on that
+20:13:03	 From akuaAxAyyAtIzEL6wr3VH95jznH2vTlVtRQhh5VIMwZch1fKpDATWtgc0+ip+XdpEjJli+yk3XTEWMK/9eAFZA== : machine learning for video games, example Super Mario
+20:13:28	 From Richard : for procedural generation or enemy AI?
+20:15:54	 From Prafful : NPXs
+20:15:58	 From Prafful : *NPCs
+20:16:12	 From abhishek : Anyone wants to work on fake news detection, I am currently  working on one
+20:16:29	 From Prafful : Would like to be part of that
+20:16:40	 From akuaAxAyyAtIzEL6wr3VH95jznH2vTlVtRQhh5VIMwZch1fKpDATWtgc0+ip+XdpEjJli+yk3XTEWMK/9eAFZA== : OpenAI Dota 2 bots have already defeated former pros
+20:18:08	 From Richard : how would you even get a supervised dataset for "verbal abuse" or "fake news"?
+20:18:24	 From Irina Max : I did sentiment analyses for Apple customer interaction
+20:18:26	 From Fred e : so called flaming prevention 🤓
+20:18:45	 From Irina Max : I would like to use deeplearning for rediction
+20:18:51	 From Irina Max : prediction
+20:19:17	 From abhishek : There exists some annotated datasets on for fake news
+20:19:55	 From paulmaddela : We could post these project ideas on slack so we will know exactly who all can collaborate on which project..
+20:20:29	 From Irina Max : verbal abuse can be identified as sentiment polarity score
+20:20:53	 From paulmaddela : Michal any good deeplearing startup idea, can start working
+20:25:57	 From Alice : I'm interested in using image detection to classify biological organisms. Aside from encyclopedic and academic purposes, a possible application could be identifying poisonous or edible plants. Michal, or anyone interested, I wonder how difficult this would be? The image detection I'm aware of is all very broad categories so I think this could be very challenging. Getting enough data would also be difficult.
+20:26:10	 From akuaAxAyyAtIzEL6wr3VH95jznH2vTlVtRQhh5VIMwZch1fKpDATWtgc0+ip+XdpEjJli+yk3XTEWMK/9eAFZA== : Sketching with help of NNs
+20:26:21	 From Salil Mishra : I wanted to work on making new metrics/methods for Text summarization, I have around 12GB of data from reddit TLDRs
+20:26:49	 From Richard : @Alice, mildly difficult:https://towardsdatascience.com/plant-ai-plant-disease-detection-using-convolutional-neural-network-9b58a96f2289
+20:28:19	 From Prafful : I’m interested in using NLP to extract information about what is wrong about a product from their reviews and discussion on them on various forums. This could help in making a better buying decision
+20:28:42	 From abhishek : We should make grps and start working on projects already
+20:29:12	 From Prafful : Slack would be more conducive to this for sure
+20:30:28	 From Michal Fabinger : fabinger@gmail.com
+20:30:44	 From Michal Fabinger : tokyodatascience.com
+20:30:45	 From Irina Max : I have event tomorrow :(  Sorry

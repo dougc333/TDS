@@ -1,0 +1,43 @@
+18:01:41	 From Doug Chang : did we cover backprop/chain rule?
+18:02:26	 From Doug Chang : is ok
+18:02:29	 From Doug Chang : Don’t need it
+18:03:21	 From Doug Chang : Prob people aren interested in practicing chain rule
+18:03:32	 From Doug Chang : Aren’t.
+18:03:44	 From Doug Chang : the online classes don’t really cover it
+18:04:17	 From Doug Chang : Ng puts the material in cs229 vs the DL class
+18:04:27	 From Doug Chang : Ok good idea
+18:23:13	 From Atiq : that was nice example
+18:24:30	 From Doug Chang : cant see screen
+18:24:31	 From Doug Chang : ?
+18:31:45	 From Doug Chang : 20 no make sense
+18:31:59	 From Doug Chang : Too far away
+18:32:53	 From abhishek : Can we have something regularisation like w(I+1)/w(i)
+18:38:34	 From Doug Chang : is good
+18:38:37	 From Richard : would regularization be like having (maybe strong) priors then?
+18:40:03	 From abhishek : It was a good discussion :D
+18:41:04	 From Michal Fabinger : We are having a 5 minute break until 10:46 Japan time.
+18:41:29	 From Doug Chang : For deep learning is L2 Reg. Imposing constraints on teh weights? The same gaussian distribution on the weights?
+18:41:41	 From Doug Chang : As in LR coefficients?
+18:41:45	 From Doug Chang : after break
+18:51:58	 From Doug Chang : Nathan Srebro
+18:51:59	 From Doug Chang : https://www.youtube.com/watch?v=ACdjYP0-cMw
+19:06:22	 From Michal Fabinger : We are having a 10 minute break until 11:16.
+19:22:01	 From Ernesto Castillo : Yes, it sounds great
+19:22:03	 From Doug Chang : great idea I am in. Good way to learn about architectures
+19:22:08	 From abhishek : That sounds great
+19:22:12	 From Richard : sounds fun
+19:22:21	 From Prafful : Sounds good
+19:26:38	 From Richard : https://github.com/beamandrew/medical-data
+19:34:13	 From Michal Fabinger : We are having a 5 minute break until 11:38 Japan time
+19:38:49	 From Michal Fabinger : fabinger@gmail.com
+19:44:46	 From Richard : scrape gutenberg
+19:45:02	 From Richard : (but pre-prepared and tokenized is of course much better)
+19:45:31	 From Richard : yes
+19:52:04	 From Ernesto Castillo : It increases
+19:52:12	 From Richard : It increases quickly (choice 0)
+19:52:52	 From Atiq : choice 0
+19:53:21	 From Richard : without regularization, it will likely focus too much on the peculiarities of the data (absent data manipulation like adding noise and transforms)
+20:00:05	 From Richard : the 16 bit precision?
+20:00:21	 From joanne : randomization?
+20:02:13	 From Richard : so the network is unable to find the global minima
+20:02:16	 From Richard : ?

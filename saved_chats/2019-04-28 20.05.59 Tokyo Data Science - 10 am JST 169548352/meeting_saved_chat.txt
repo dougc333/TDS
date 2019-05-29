@@ -1,0 +1,44 @@
+18:11:10	 From Michal Fabinger : tokyodatascience.com
+18:12:21	 From Doug Chang : yes
+18:12:26	 From Doug Chang : Can give lectures
+18:12:37	 From Doug Chang : maybe a 10 minute one like what Richard did
+18:28:21	 From Michal Fabinger : We are having a 5 minute break until 10:33 Japan time
+18:32:55	 From Doug Chang : https://github.com/pouannes/TokyoDS/blob/master/course.pdf
+18:34:15	 From Doug Chang : Great idea
+18:34:18	 From Doug Chang : very exciting
+18:34:31	 From Atiq : Awesome!
+18:35:10	 From abhishek : Yes !
+18:35:32	 From Shubham : sounds great!!
+18:35:33	 From Richard : nothing quite like some competition to make work pass like a breeze
+18:41:56	 From Atiq : sorry, I am late today, I think I missed most important things :(
+18:42:31	 From Atiq : ok
+18:44:42	 From Michal Fabinger : Please email me at fabinger@gmail.com to get access to our Slack and Piazza websites.
+18:53:40	 From Atiq : Thanks
+19:02:08	 From Michal Fabinger : If you are joining us to the first time, I would be happy to explain everything about our school in a separate video chat.
+19:02:10	 From Michal Fabinger : We are having a 10-minute break until 11:10 Japan time.
+19:14:08	 From Ernesto Castillo : I would like to do it
+19:14:15	 From Prafful : Me too
+19:19:11	 From Ernesto Castillo : What does m stand for?
+19:25:09	 From Niha : what is the purpose of the bias?
+19:33:21	 From Michal Fabinger : We are having a break until 11:38.
+19:35:43	 From Michal Fabinger : Here is the notation sheet by Andrew Ng: https://cs230.stanford.edu/files/Notation.pdf
+19:36:52	 From Doug Chang : The bias controls where the intercept is for the regression line
+19:36:59	 From Doug Chang : 0 means it goes through the origin
+19:37:09	 From Doug Chang : Linear model assumption
+19:37:16	 From Doug Chang : slope + y intercept
+19:37:29	 From Doug Chang : So they extend that to linear classification
+19:37:46	 From Doug Chang : slope and y intercept
+19:48:53	 From Michal Fabinger : cs230.stanford.edu%2Ffiles%2FNotation.pdf
+19:49:08	 From Michal Fabinger : https://cs230.stanford.edu/files/Notation.pdf
+19:51:58	 From Atiq : I am still learning basics
+19:52:07	 From Doug Chang : Have project
+19:52:12	 From Richard : Mild delays in dataset manipulation
+19:52:26	 From Doug Chang : BERT on Kaggle toxic classification dataset
+19:52:31	 From Atiq : I am interested in speech recognition systems
+19:53:27	 From Doug Chang : yes
+19:53:43	 From Doug Chang : ok
+19:54:03	 From Doug Chang : yes
+19:55:10	 From Atiq : right
+19:55:53	 From Atiq : o
+19:55:55	 From Atiq : ok
+20:05:49	 From Michal Fabinger : fabinger@gmail.com
