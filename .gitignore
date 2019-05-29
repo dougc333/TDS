@@ -10,3 +10,6 @@ malaria/kaggle/*
 malaria/malaria/images/*
 malaria/malaria_cell_classification_code/*
 cs294/hw1/mnist-hw1.pkl
+malaria/broad_inst/*
+malaria/broad_inst/malaria/images/*
+
