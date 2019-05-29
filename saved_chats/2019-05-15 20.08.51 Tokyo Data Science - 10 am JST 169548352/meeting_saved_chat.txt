@@ -1,0 +1,39 @@
+18:31:22	 From Doug Chang : Never saw this before
+18:31:41	 From Doug Chang : so so
+18:31:47	 From Ernesto Castillo : it is confusing, but I think I got the idea
+18:31:47	 From Doug Chang : Reg vs OLS
+18:31:50	 From Niha : is regularization useful if we only have w1?
+18:35:17	 From Niha : I see. thanks
+18:38:58	 From Prafful : Can you please explain how to read the figure, I am not able to comprehend it
+18:46:38	 From Michal Fabinger : We are having a 5 minute break until 10:51 Japan time.
+18:47:50	 From Michal Fabinger : Our website is tokyodatascience.com. If you would like to be added to our Piazza and Slack or if you would like me to explain everything about our school, please email me at fabinger@gmail.com.
+19:09:58	 From Michal Fabinger : We are having a 10 minute break until 10:19 Japan time.
+19:12:44	 From Doug Chang : The man is right: http://cs229.stanford.edu/proj2016/poster/ChenZhu-PredictingMedianIncomeFromYelpReviewLanguage-poster.pdf
+19:25:11	 From Doug Chang : havnt started :)
+19:25:18	 From Ernesto Castillo : I have not started
+19:25:20	 From Doug Chang : Cant be that hard no?
+19:25:31	 From Doug Chang : Depends on experience
+19:25:32	 From Niha : I am still beginnin
+19:25:36	 From Salil Mishra : can I use a different dataset, same technique?
+19:25:37	 From Niha : beginning*
+19:25:43	 From atiq : haven't started
+19:25:47	 From Doug Chang : Yes use MNIST or something simple
+19:25:51	 From Paul : i havent started yet. will do
+19:25:59	 From Doug Chang : i prob did mnist 100x+
+19:25:59	 From atiq : will try to start today
+19:26:23	 From Salil Mishra : Thanks!
+19:33:37	 From Salil Mishra : More Reliable also
+19:33:45	 From Salil Mishra : than colab
+19:35:29	 From Doug Chang to Niha (Privately) : https://zoom.us/j/774318546 @8pm
+19:37:43	 From Salil Mishra : Very much interested!
+19:38:29	 From Prafful : It would be great to have recordings of the talks
+19:38:42	 From Ernesto Castillo : Totally interested, may be between 8 to 2 pm tokyo time or after 8 pm
+19:39:22	 From atiq : interested
+19:40:32	 From Michal Fabinger : We are having a five minute break until 11:45 Japan time.
+19:40:39	 From Paul : it would be good to know the topic they will be covering ahead so we can be prepared and be able to have a fruitful discussion
+19:41:23	 From Michal Fabinger : Thanks for the suggestion, Paul. Yes, these talks will be  announced in advance including the topic.
+19:45:58	 From Prafful : Sunday would be great
+19:48:47	 From Niha to Doug Chang (Privately) : Thanks
+19:53:38	 From Niha : The regression doesn't show causation
+20:04:55	 From Michal Fabinger : omitted variable bias
+20:06:35	 From Michal Fabinger : algorithmic fairness

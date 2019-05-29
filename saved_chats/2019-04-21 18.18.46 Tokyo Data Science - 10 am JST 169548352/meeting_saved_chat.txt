@@ -1,0 +1,85 @@
+18:01:22	 From Michal Fabinger : Dear all: welcome!
+
+If you are joining us for the first time, here is some useful information:
+
+We started earlier this week, but hopefully, it will not be too hard to catch up. We need our participants to have Python and Jupyter Lab installed. We recommend the Anaconda installation (with Python 3.7).
+
+https://www.anaconda.com/distribution/
+
+Later we will need PyTorch and TensorFlow. Installing PyTorch is easy using these directions:
+
+https://pytorch.org/
+
+TensorFlow is just a little bit more complicated:
+
+https://www.tensorflow.org/install/
+18:01:34	 From Michal Fabinger : We have covered some material from the Deep Learning book (http://www.deeplearningbook.org/ , free online), namely sections 4.3 (before 4.3.1), 8.1.3, 8.3.1., and the most important algorithms from 8.3.
+
+Our school's website is 
+
+https://tokyodatascience.com/
+
+and some useful pages are:
+
+https://tokyodatascience.com/courses
+https://tokyodatascience.com/deeplearning
+https://tokyodatascience.com/datascience
+https://tokyodatascience.com/tuition
+https://tokyodatascience.com/community
+
+The present class corresponds to a combined Deep Learning and Data Science track. We will cover all of the Deep Learning topics and all the important extra topics from the Data Science curriculum.
+18:01:49	 From Michal Fabinger : We will be using the optimizer slides
+
+https://www.dropbox.com/s/w1k61x16dbhbklw/OptimizerSlides.pdf?dl=0
+
+and the Jupyter notebook
+
+https://www.dropbox.com/s/gkxn2gj2d72y0iv/linear_model.ipynb?dl=0
+
+which we will modify to implement different optimizers. 
+
+If you have trouble with the notebooks animation writing functions, you may need to install ffmpeg for this to work correctly. For Windows users, the following links may be helpful:https://www.wikihow.com/Install-FFmpeg-on-Windows https://www.youtube.com/watch?v=pHR3ttH5t-w  
+For Mac users, the following link works:https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/wiki/Installing-ffmpeg-on-Mac-OS-X
+18:04:00	 From Michal Fabinger : gamma_true = 8.0
+18:18:44	 From Michal Fabinger : Gradient descent
+Gradient descent with momentum
+Gradient descent with Nesterov momentum
+AdaGrad
+Adam
+18:30:49	 From abhishek : Hey did you read the paper posted on group which stated sgd generalises better than Adam
+18:33:35	 From Michal Fabinger : We have a 5 minute break until 10:38 Japan time.
+18:37:11	 From Michal Fabinger : If you would like to get invites to our Piazza and Slack websites, please email me at fabinger@gmail.com
+18:38:37	 From Doug Chang : There was a comment on visualizations last lecture
+18:38:41	 From Doug Chang : can you elaborate?
+18:41:22	 From Doug Chang : There was a slide on convergence rate of GD and nesterov
+18:41:27	 From Doug Chang : Where smooth was 1/T
+18:41:34	 From Doug Chang : and NAG was 1/T-sauqred
+18:41:57	 From Doug Chang : and smooth and strongly convex was exp(-Tsqrt(k))
+18:53:57	 From Michal Fabinger : Hessian
+18:57:05	 From Michal Fabinger : We have a 5 minute break until 11:02
+18:58:23	 From Prafful : How to determine we are stuck in the state shown in the second animation, does the error swinging back & forth in a range indicates this situation?
+18:58:52	 From Alice : We're looking at visualizations for the performance of different optimizers.
+18:59:12	 From Alice : @Irina
+18:59:58	 From Atiq : Where are the new slides ?
+19:00:24	 From Irina Max : @Alice thank you ;)
+19:00:31	 From Doug Chang : and he had a possible research topic where you could toggle between nesterov and gd and see when to toggle on off for better performance
+19:00:45	 From Doug Chang : soe guy in Berkeley did a talk forgot his name
+19:01:11	 From Doug Chang : And in reality bc NN are so complicated nesterov doesn’t really make a differnece
+19:02:07	 From Doug Chang : Research paper would be good.
+19:02:21	 From Irina Max : yes
+19:09:33	 From Doug Chang : sigopt has a bayesian optimizer for NNs. Don’t understand why/how this helps in parameter search .
+19:26:21	 From Md Imbesat Hassan Rizvi : https://github.com/automl/RoBO
+19:27:00	 From Md Imbesat Hassan Rizvi : An opensource implementation of BO (Bayesian Optimizer)
+19:27:07	 From Md Imbesat Hassan Rizvi : There ight other solutions available too
+19:33:14	 From Michal Fabinger : We are having a break until 11:37 Japan time
+19:37:19	 From Michal Fabinger : Automatic differentiation — Matthew Johnson
+19:37:44	 From Doug Chang : Gradient programming
+19:41:49	 From paulmaddela : http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/
+19:53:53	 From Irina Max : activization function
+19:59:57	 From Irina Max : J(a,b,c) = 3(a+bc)
+20:00:04	 From Irina Max : u_bc
+20:00:51	 From Irina Max : u=bc    v=a+u    then   J= 3V
+20:06:49	 From Irina Max : 1 dJ/da=3 = dJ/dv   *   dv/da
+20:06:53	 From Doug Chang : the size of the multiplies
+20:07:12	 From Doug Chang : You have big times big which takes more memory forward
+20:07:21	 From Doug Chang : backward you have small times large so you use less memory

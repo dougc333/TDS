@@ -1,0 +1,22 @@
+18:00:53	 From Doug Chang to Niha (Privately) : https://zoom.us/j/7310267767 8pm?
+18:01:10	 From Doug Chang : The assignments aren’t good for beginners. We have some beginners in group
+18:06:57	 From Niha to Doug Chang (Privately) : Sure. Thanks for taking the time for this.
+18:07:46	 From Michal Fabinger : If you find Assignment 3 difficult, you can work on it after Assignments 4 and 5, which will easier. After that we can provide support for your coding, if needed.
+18:11:08	 From Prafful : http://cs231n.github.io/convolutional-networks/
+18:26:41	 From Niha : How do we know U is orthogonal to g? I may have misse dit
+18:30:29	 From Niha : Ok, I get it now. Thank you.
+18:35:17	 From Michal Fabinger : We are having a 5 minute break until 10:40 Japan time.
+18:37:43	 From Doug Chang : For variational auto encoders we are learning the E(Y|Z)?
+18:40:38	 From Doug Chang : We need the next section, gradients for Loss minimization to do that then
+18:57:22	 From Michal Fabinger : tokyodatascience.com
+18:57:27	 From Michal Fabinger : fabinger@gmail.com
+19:02:23	 From Michal Fabinger : We are having a 10 minute break until 11:12 Japan time.
+19:10:16	 From md.imbesat.hassan.rizvi@hp.com : I didn't understand a couple of steps in the proof of iterated expectation
+19:12:09	 From md.imbesat.hassan.rizvi@hp.com : Does the relation that U and Z are orthogonal to each other then U is orthognal to any power of Z always implies for any random variable U and X or is it so specifically for the way U is defined
+19:39:38	 From Ernesto Castillo : I think is enough with a linear function
+19:44:03	 From Ernesto Castillo : Is it the probability?
+19:47:22	 From Michal Fabinger : We are having a 3 minute break until 11:50
+19:47:32	 From Michal Fabinger : Then we will continue until 12:05
+19:47:37	 From Michal Fabinger : Japan time
+19:49:22	 From Krishnamurti Subramanian : Is Bata j,k just 0 or 1?
+19:51:44	 From Niha : is the dummy variable a similar concept to categorical variable?

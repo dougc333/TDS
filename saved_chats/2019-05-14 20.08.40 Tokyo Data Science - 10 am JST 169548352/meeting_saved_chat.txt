@@ -1,0 +1,22 @@
+18:00:49	 From Doug Chang : No rush
+18:01:10	 From Doug Chang : we might have to slow down
+18:19:01	 From Doug Chang : is invertible, det=0; we needed that for earlier material also
+18:19:10	 From Doug Chang : Singular square
+18:33:39	 From Doug Chang : Book skips lots of steps
+18:35:13	 From Doug Chang : very good
+18:35:14	 From Doug Chang : Thank you
+18:35:43	 From Michal Fabinger : We are having a 5 minute break until 10:41 Japan time.
+19:01:19	 From Michal Fabinger : We are having a 10 minute break until 11:11 Japan time
+19:36:29	 From Michal Fabinger : We are having a 5 minute break until 11:41 Japan time
+19:42:01	 From Doug Chang : Slow good
+19:43:20	 From Salil Mishra : yeah!
+19:43:44	 From Doug Chang : If I start creating loss functions and add them together how do I know they intersect?
+19:43:55	 From Doug Chang : Like for image captioning where there are multiple loss functions
+19:44:00	 From Doug Chang : components
+19:51:30	 From Doug Chang : yes
+19:51:31	 From Doug Chang : clear
+19:57:00	 From Doug Chang : clear
+19:57:03	 From Ernesto Castillo : yes it is
+20:02:37	 From Doug Chang : Yeah super important! :)
+20:07:50	 From Doug Chang : wow good lecture. So much better than online classes
+20:08:34	 From Ernesto Castillo : see you

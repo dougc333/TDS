@@ -1,0 +1,46 @@
+18:06:01	 From Doug Chang to Niha (Privately) : https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+18:06:22	 From Doug Chang to Niha (Privately) : How about getting the tutorial working on colab and we can review after done?
+18:06:34	 From Niha to Doug Chang (Privately) : Thank you
+18:06:37	 From Doug Chang to Niha (Privately) : If you finish early can generate a ROC curve.
+18:06:39	 From Doug Chang to Niha (Privately) : let me get link
+18:07:11	 From Doug Chang to Niha (Privately) : And increase the epochs past 2 to get >90% accuracy
+18:07:32	 From Doug Chang to Niha (Privately) : https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html
+18:07:38	 From Doug Chang to Niha (Privately) : Can review Sunday w/you
+18:07:55	 From Doug Chang to Niha (Privately) : that is a better starter project than assignment 3
+18:08:53	 From Doug Chang to Niha (Privately) : Or submit cifar instead of ass3.
+18:09:02	 From Niha to Doug Chang (Privately) : ok..I have to read about ROC curves. I haven't come across the term before
+18:14:53	 From Doug Chang to Niha (Privately) : More common to compare different classifiers using ROC than training error. We have a couple extensions we need to do after ROC curve. Like splitting into test/valadition/train set, etc..
+18:15:01	 From Doug Chang to Niha (Privately) : will review w/you on Sunday. Small steps
+18:22:04	 From Doug Chang : I think we were supposed to generate a ROC curve for ass2 or ass3. Forgot, he said something.
+18:22:18	 From Doug Chang : oops
+18:30:36	 From atiq : is this the section from deep learning book or are you trying to extend/explain on mentioned terms ?
+18:30:49	 From Doug Chang : set der =0
+18:31:01	 From Doug Chang : This is important stuff
+18:31:09	 From Doug Chang : not in kaggle
+18:31:24	 From atiq : ok, thanks
+18:31:51	 From Niha : What is the difference between this and linear regression? 
+18:31:51	 From Doug Chang : https://en.wikipedia.org/wiki/Omitted-variable_bias
+18:32:36	 From Doug Chang : https://www.albany.edu/faculty/kretheme/PAD705/SupportMat/OVB.pdf
+18:34:22	 From atiq : you are using least square for prediction?
+18:35:05	 From Paul : would you explain central limit theorem to express relation between population and sample?
+18:38:05	 From Doug Chang to Niha (Privately) : You have to do a regression analysis as part of a regression, or ML model.
+18:38:19	 From Michal Fabinger : We are having a 5 minute break until 10:43 Japan time.
+18:38:25	 From Doug Chang to Niha (Privately) : so when you explain to the CEO your model they can account for when it works or doesn’t work
+18:38:44	 From Doug Chang to Niha (Privately) : none of the online classes cover this.
+18:39:18	 From Doug Chang : The undergrad stats classes don’t cover this either
+18:39:34	 From Doug Chang : in the old days they would use t-test but this is derived for a random variable
+18:39:47	 From Doug Chang : Which matches your dataset from a population
+18:39:52	 From Doug Chang : so this analysis is different
+18:46:14	 From Doug Chang : What did he say
+18:49:13	 From Ernesto Castillo : May be he thought it something only related to ML
+18:49:24	 From Ernesto Castillo : it is*
+18:58:30	 From joanne : I see. thank you
+19:06:01	 From Michal Fabinger : We are having a 10 minute break until 11:15.
+19:16:43	 From Michal Fabinger : tokyodatascience.com
+19:16:57	 From Michal Fabinger : fabinger@gmail.com
+19:17:14	 From Niha to Doug Chang (Privately) : I see
+19:18:00	 From Michal Fabinger : https://www.nber.org/papers/w13432.pdf
+19:18:52	 From Salil Mishra : Wow!
+19:29:29	 From Niha : I think it is the E(XY) and E(Y)E(X)?
+19:40:53	 From Michal Fabinger : We are having a 5 minute break until 11:45 Japan time
+20:06:48	 From Ernesto Castillo : more or less 
