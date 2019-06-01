@@ -1,4 +1,4 @@
-data/MNIST/
+data/MNIST/*
 lstm_outliers/SFA/*
 **/SFA
 unet/*.tar.gz
