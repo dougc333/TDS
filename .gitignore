@@ -1,3 +1,7 @@
+*.zip
+rossmann_data/*.tgz
+*.tgz
+*.tgz.*
 lstm_outliers/SFA/*
 **/SFA
 unet/*.tar.gz
