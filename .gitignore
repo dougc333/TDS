@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+MNIST/raw/*
+MNIST/processed/*
+ames/*
 *.zip
 rossmann_data/*.tgz
 *.tgz
 *.tgz.*
-=======
 data/MNIST/*
->>>>>>> 0e044260d169f9addec968b8eab692184d6e8a10
 lstm_outliers/SFA/*
 **/SFA
 unet/*.tar.gz
