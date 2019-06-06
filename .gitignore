@@ -1,9 +1,23 @@
+<<<<<<< HEAD
 *.zip
 rossmann_data/*.tgz
 *.tgz
 *.tgz.*
+=======
+data/MNIST/*
+>>>>>>> 0e044260d169f9addec968b8eab692184d6e8a10
 lstm_outliers/SFA/*
 **/SFA
 unet/*.tar.gz
+unet/*.h5
 unet/annotations/*
 unet/images/*
+malaria/*.zip
+malaria/malaria/*
+malaria/kaggle/*
+malaria/malaria/images/*
+malaria/malaria_cell_classification_code/*
+cs294/hw1/mnist-hw1.pkl
+malaria/broad_inst/*
+malaria/broad_inst/malaria/images/*
+

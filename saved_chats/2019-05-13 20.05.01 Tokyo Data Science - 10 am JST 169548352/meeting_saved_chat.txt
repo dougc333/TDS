@@ -1,0 +1,50 @@
+17:59:46	 From Salil Mishra to Doug Chang (Privately) : Hey Doug! have you decided what you want to do for the project?
+18:00:12	 From Doug Chang : I sent out invoices for the second month. We have 2 people in the US who I have invoiced.
+18:02:24	 From Michal Fabinger : tokyodatascience.com
+18:02:52	 From Michal Fabinger : fabinger@gmail.com
+18:03:06	 From promilaa : Thanks !
+18:08:57	 From Doug Chang to Salil Mishra (Privately) : I have. I am going to work w/Niha on a project to help her find a DS job. More complicated than the hw.
+18:13:26	 From Salil Mishra to Doug Chang (Privately) : That's a tough one for project! Where are you based currently?
+18:14:12	 From Doug Chang to Salil Mishra (Privately) : SF Bay Area. I can hire her myself if she makes enough progress. She is a good person. Would make a great colleague.
+18:18:10	 From Doug Chang : are teh variances bounded?
+18:19:31	 From Doug Chang : We saw that earlier causing dead RELUs.
+18:24:52	 From Doug Chang : RELU Preserves variance across layers in CNN.
+18:25:02	 From Doug Chang : As dos TANH
+18:33:48	 From Salil Mishra : That RELU explanation was great, never looked at it this way!
+18:35:00	 From Prafful : Could you please repeat the advantage of ReLU in Computer Vision?
+18:35:09	 From Michal Fabinger : We are having a 5 minute break until 10:39 am Japan time
+18:35:18	 From Prafful : Ok
+18:36:13	 From Salil Mishra : So by this analogy, LeakyReLU must perform better than ReLU? as they will have a bigger range for the activations to vary?
+18:50:33	 From Ernesto Castillo : prevents big values
+18:56:27	 From Niha : The output y?
+19:02:21	 From Michal Fabinger : We are having a 10 minute break until 11:12 Japan time.
+19:04:20	 From Salil Mishra : Michal, I have seen people use gradient clipping with CNNs too, Is it better to use it with when training depper architectures?
+19:07:05	 From Salil Mishra : I had one more doubt, about setting thresholds for predicting various classes, how do people come up with the numbers, is it intelligent guessing seeing the wrong predictions made by the classifier and setting a lower bound, or there are some techniques?
+19:13:50	 From Prafful : lower layers
+19:21:17	 From Galaxy 9S : it appears doable
+19:21:25	 From Prafful : It appears doable
+19:21:34	 From Galaxy 9S : I picked the auto encoders, and it more or less works
+19:21:41	 From Atiq : who to contact in case of a trouble ?
+19:21:42	 From Niha : what is the objective of translating the code to pytorch?
+19:21:57	 From Atiq : usually I get stuck and give up some times
+19:21:59	 From Atiq : ok
+19:22:16	 From Atiq : oh ok, I was gonna ask Sanyam's email
+19:22:29	 From Doug Chang to Niha (Privately) : Learn pytorch
+19:22:46	 From Doug Chang to Niha (Privately) : if you want to find job that is area where you can start to do code contributions
+19:22:57	 From Doug Chang to Niha (Privately) : the assignment uses some students website
+19:23:02	 From Salil Mishra : learning basics of Tensorflow and Pytorch at the same time @Niha
+19:23:04	 From Doug Chang to Niha (Privately) : which is good starting pipnt
+19:23:07	 From Niha to Doug Chang (Privately) : Oh i see not tensorflow?
+19:23:15	 From Doug Chang to Niha (Privately) : TF too complicated
+19:23:20	 From Niha : Thanks Salil
+19:23:22	 From Doug Chang to Niha (Privately) : You need C++ async programming
+19:23:33	 From Niha to Doug Chang (Privately) : I see
+19:23:39	 From Doug Chang to Niha (Privately) : you can add to pytorch using pytext patterns
+19:23:50	 From Doug Chang to Niha (Privately) : Which builds on component.py which is a task manager
+19:24:02	 From Doug Chang to Niha (Privately) : you cant program like the student to find a job
+19:24:09	 From Doug Chang to Niha (Privately) : Need to make it more production ready
+19:24:15	 From Doug Chang to Niha (Privately) : we can review on wed
+19:25:52	 From Niha to Doug Chang (Privately) : ok sounds good
+19:32:36	 From Doug Chang : m+ Is memory
+19:36:07	 From Michal Fabinger : We are having a five minute break until 11:40 Japan time.
+20:01:48	 From joanne : it seems there is a circle

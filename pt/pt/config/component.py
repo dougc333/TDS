@@ -6,7 +6,7 @@ from typing import Any, Dict, List, Tuple, Type, Union
 
 import torch
 
-from .pytext_config import ConfigBase, PyTextConfig
+from .pt_config import ConfigBase, PyTextConfig
 
 
 class ComponentType(enum.Enum):
@@ -148,9 +148,7 @@ def register_tasks(task_cls: Union[Type, List[Type]]):
 
 def create_component(component_type: ComponentType, config: Any, *args, **kwargs):
     config_cls = type(config)
-    print("create_component in component.py config_cls:",config_cls)
     cls = Registry.get(component_type, config_cls)
-    print("cls:",cls)
     return cls.from_config(config, *args, **kwargs)
 
 

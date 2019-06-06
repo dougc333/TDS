@@ -3,9 +3,9 @@
 from pprint import pprint
 from typing import List, Optional
 
-from pytext.common.constants import BatchContext
-from pytext.config import ConfigBase, config_to_json
-from pytext.config.component import (
+from pt.common.constants import BatchContext
+from pt.config import ConfigBase, config_to_json
+from pt.config.component import (
     Component,
     ComponentType,
     create_component,
@@ -16,15 +16,15 @@ from pytext.config.component import (
     create_model,
     create_trainer,
 )
-from pytext.config.field_config import FeatureConfig
-from pytext.data import DataHandler
-from pytext.data.featurizer import Featurizer, SimpleFeaturizer
-from pytext.exporters import ModelExporter
-from pytext.loss import KLDivergenceBCELoss, KLDivergenceCELoss, SoftHardBCELoss
-from pytext.metric_reporters import MetricReporter
-from pytext.models import Model
-from pytext.trainers import Trainer
-from pytext.utils import cuda, distributed, precision
+from pt.config.field_config import FeatureConfig
+from pt.data import DataHandler
+from pt.data.featurizer import Featurizer, SimpleFeaturizer
+from pt.exporters import ModelExporter
+from pt.loss import KLDivergenceBCELoss, KLDivergenceCELoss, SoftHardBCELoss
+from pt.metric_reporters import MetricReporter
+from pt.models import Model
+from pt.trainers import Trainer
+from pt.utils import cuda, distributed, precision
 
 
 def create_task(task_config, metadata=None, model_state=None):
@@ -34,8 +34,6 @@ def create_task(task_config, metadata=None, model_state=None):
     """
     print("\n create_task calling create component Task: ", ComponentType.TASK, " task_config:",task_config)
     print("\n metadata:", metadata, " model_state:",model_state)
-    print("aaaaaaaaaaa")
-    print("aaaaaaaaaaa")
     return create_component(ComponentType.TASK, task_config, metadata, model_state)
 
 
