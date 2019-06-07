@@ -1,3 +1,10 @@
+MNIST/raw/*
+MNIST/processed/*
+ames/*
+*.zip
+rossmann_data/*.tgz
+*.tgz
+*.tgz.*
 data/MNIST/*
 lstm_outliers/SFA/*
 **/SFA
