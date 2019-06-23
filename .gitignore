@@ -1,4 +1,8 @@
+pytorch-pretrained-BERT/*
 MNIST/raw/*
+data/toxic/*
+data/bestbuy/*
+rossmann_data/*
 MNIST/processed/*
 ames/*
 *.zip
