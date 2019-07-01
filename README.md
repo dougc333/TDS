@@ -1,3 +1,6 @@
+Pytorch OP counter: https://github.com/Lyken17/pytorch-OpCounter
+
+
 TDS MF notes
 https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 
