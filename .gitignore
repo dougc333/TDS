@@ -1,3 +1,4 @@
+XGBoost/*.csv
 keras/*
 pytorch-pretrained-BERT/*
 MNIST/raw/*
