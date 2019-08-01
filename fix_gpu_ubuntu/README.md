@@ -1,3 +1,5 @@
+Notes to fix gpu driver problem on ubuntu titanX
+
 ImportError: libcublas.so.10.0: cannot open shared object file: No such file or directory
 ImportError: libcusolver.so.10.0: cannot open shared object file: No such file or directory
 
