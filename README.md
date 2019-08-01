@@ -1,8 +1,11 @@
-Pytorch OP counter: https://github.com/Lyken17/pytorch-OpCounter
+TDS lectures and project notes
 
+gradient descent momentum using JH notebook showing how L2 loss converges faster using
+nesterov, adam, adagrad. 
 
-TDS MF notes
-https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+huber loss
 
-the save animation code into mp4 doesnt work. you have to right click and save as mpeg4 movie. 
+XGBoost
+
+Curse of Dimensionality
 
