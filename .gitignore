@@ -1,16 +1,7 @@
 XGBoost/*.csv
-keras/*
-pytorch-pretrained-BERT/*
-MNIST/raw/*
 data/toxic/*
 data/bestbuy/*
-rossmann_data/*
-MNIST/processed/*
-ames/*
 *.zip
-rossmann_data/*.tgz
 *.tgz
 *.tgz.*
-data/MNIST/*
-lstm_outliers/SFA/*
 
