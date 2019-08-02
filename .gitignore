@@ -1,3 +1,4 @@
+.DS_Store
 XGBoost/*.csv
 data/toxic/*
 data/bestbuy/*
