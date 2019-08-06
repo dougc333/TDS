@@ -2,9 +2,6 @@ import click
 
 @click.command()
 @click.option('--s',type='string', default="default string in option")
-@click.option('--repeat', default=1, type=int, help='repeat')
 def cli(s,repeat):
-	print("s:",s) #cant replace w/click.echo as in video
+	print("s:",s) 
 	click.echo("hello world w.click")
-	for x in range(repeat):
-		print(x)

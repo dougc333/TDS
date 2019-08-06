@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "/Users/dougchang/miniconda3/envs/TDS/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.pep8Enabled": true,
+  "python.linting.enabled": true
+}

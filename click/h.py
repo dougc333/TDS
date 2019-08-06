@@ -1,8 +1,7 @@
-#!/usr/local/bin/python
 
 import click
 
-@cli.command()
+@click.command()
 def hello():
   click.echo("click says he")
 
