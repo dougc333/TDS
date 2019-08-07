@@ -1,4 +1,4 @@
 
       [console_scripts]
-      h2=h2:cli
+      hello=h5:cli
    

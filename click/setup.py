@@ -11,7 +11,7 @@ setup(
    ],
    entry_points='''
       [console_scripts]
-      hello=hello:cli
+      hello=hello_projects.hello:cli
    ''',
 
 )
