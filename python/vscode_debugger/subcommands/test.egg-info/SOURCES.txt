@@ -1,5 +1,4 @@
 setup.py
-test.py
 test.egg-info/PKG-INFO
 test.egg-info/SOURCES.txt
 test.egg-info/dependency_links.txt

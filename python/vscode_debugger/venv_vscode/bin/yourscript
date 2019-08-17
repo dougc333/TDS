@@ -1,6 +1,6 @@
 #!/Users/dougchang/TDS/python/vscode_debugger/venv_vscode/bin/python3.7
-# EASY-INSTALL-ENTRY-SCRIPT: 'test','console_scripts','testme'
-__requires__ = 'test'
+# EASY-INSTALL-ENTRY-SCRIPT: 'yourscript','console_scripts','yourscript'
+__requires__ = 'yourscript'
 import re
 import sys
 from pkg_resources import load_entry_point
@@ -8,5 +8,5 @@ from pkg_resources import load_entry_point
 if __name__ == '__main__':
     sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
     sys.exit(
-        load_entry_point('test', 'console_scripts', 'testme')()
+        load_entry_point('yourscript', 'console_scripts', 'yourscript')()
     )

@@ -1,5 +1,5 @@
 #this is a test program to test click subcommands and debugger interaction
-import pdb
+#import pdb
 import click
 
 
