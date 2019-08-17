@@ -8,8 +8,8 @@ ${workspaceFolder}/y
 args:['train']
 
 do these really work in vscode? I cant get them to work in pytext. 
-this works with this launch.json
-
+this works with this launch.json. This enters the debugger but 
+what happens and how do you enter the train subcommand? 
    {
       "name": "Python: Current File (Integrated Terminal)",
       "type": "python",
@@ -19,4 +19,29 @@ this works with this launch.json
     },
 
 set breakpoint in main() of y.py
+when we run teh commnnd normally >y without the train subcommand we dont get the print
+statemnt in main() and the train subcommand. We just get teh help menu: 
+
+(venv_vscode) dougchang@Dougs-MacBook-Pro:~/TDS/python/vscode_debugger/subcommands$ y
+Usage: y [OPTIONS] COMMAND [ARGS]...
+
+Options:
+  --config-file TEXT
+  --config-json TEXT
+  --config-module TEXT  python module that contains the config object
+  --help                Show this message and exit.
+
+Commands:
+  train
+
+But when we run >y train awe get the correct output and the functions execute>
+  train
+(venv_vscode) dougchang@Dougs-MacBook-Pro:~/TDS/python/vscode_debugger/subcommands$ y train
+main
+init running
+train subcommand a_option: 
+
+so this means we need to get the subcommand train correct for the debugger to execute the main() and train() functions
+and if train() doesnt execute then main() doesnt execute eiteher. 
+
 
