@@ -8,8 +8,8 @@
       "name": "Python: Current File (Integrated Terminal)",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}/subcommands/test",
-      "args":["train"]
+      "program": "${workspaceFolder}/venv_vscode/bin/y",
+      "args":["--config-json","bbbb","train"]
       "console": "integratedTerminal"
     },
     {

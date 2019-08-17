@@ -1,11 +1,17 @@
-vscode debugger launch.json doesnt work unless you reference the launch file installed by pip under venv/bin/yourscipts instead of the yourscripts.py file vscode is editing. 
+vscode debugger launch.json you specify the executable when using click/setup.py. click copies
+yourscript to venv/bin/yourscript. Set the location to this file. which is the click entry point when 
+it calls pkg_resources load_entry_point. 
+pdb works
 
 test using command in args:[] and debug open file
-
-${workspaceFolder}/venv_vscode/bin/yourscripts
+${worspaceFolder}/y train
+and 
+${workspaceFolder}/y
 args:['train']
 
-This does not work:
+do these really work in vscode? I cant get them to work in pytext. 
+this works with this launch.json. This enters the debugger but 
+what happens and how do you enter the train subcommand? 
    {
       "name": "Python: Current File (Integrated Terminal)",
       "type": "python",
@@ -13,14 +19,6 @@ This does not work:
       "program": "${workspaceFolder}/subcommands/y.py",
       "console": "integratedTerminal"
     },
-
-This does not work:
-args:['train']
-but this does:
-args:["--console-file", "aaaa", "train"]
-Note how the argument for the first command is before the subcommand train
-
-Note: the first command only executes if the subcommand is also correct and is not in error. 
 
 set breakpoint in main() of y.py
 when we run teh commnnd normally >y without the train subcommand we dont get the print
