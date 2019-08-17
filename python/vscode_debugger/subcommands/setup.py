@@ -3,15 +3,15 @@ from setuptools import setup
 
 
 setup(
-   name="hello",
+   name="test",
    version='1.0',
-   py_modules=['hello'],
+   py_module=['test'],
    install_requires=[
      'Click',
    ],
    entry_points='''
       [console_scripts]
-      hello=hello_projects.hello:cli
+      test= test:main
    ''',
 
 )

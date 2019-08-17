@@ -13,14 +13,13 @@ class Foo:
 
 
 @click.group()
-@click.option("--include", multiple=True)
 @click.option("--config-file", default="train_cnn.json")
 @click.option("--config-json", default="")
 @click.option(
     "--config-module", default="", help="python module that contains the config object"
 )
 @click.pass_context
-def main(context, config_file, config_json, config_module, include):
+def main(context, config_file, config_json, config_module):
   #pdb.set_trace() use debugger to view context, config_file, config_json, config_module, include
   print("main")
   f = Foo()
