@@ -45,3 +45,7 @@ so this means we need to get the subcommand train correct for the debugger to ex
 and if train() doesnt execute then main() doesnt execute eiteher. 
 
 
+One way to solve this which is not on websearch sites is to modify y. click() and setuptools copys y which is a python program 
+to an executable under venv/bin/y so modify this by adding "train" or the 
+subcommand to the sys.argv list. Cant rely on args in vscode to append to 
+sys.argv since it cant do so when the process is under control of click and setuptools
