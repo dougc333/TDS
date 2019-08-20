@@ -1,0 +1,7 @@
+README.md
+setup.py
+startme
+startme.egg-info/PKG-INFO
+startme.egg-info/SOURCES.txt
+startme.egg-info/dependency_links.txt
+startme.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+#!/Users/dougchang/TDS/tds_env/bin/python
+
+from sayhi import hi
+
+h = hi()
+print(dir(h))
+print(h.greet)
+print(h.greet())
