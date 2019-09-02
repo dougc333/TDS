@@ -1,3 +1,6 @@
+python/vscode_debugger/venv_vscode/
+python/vscode_debugger/subcommands/venv_sub/
+python/vscode_debugger/subcommands/__pycache__
 .DS_Store
 XGBoost/*.csv
 data/toxic/*
