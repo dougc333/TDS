@@ -1,3 +1,11 @@
-#header
+TDS lectures and project notes
 
-this is a test 
+gradient descent momentum using JH notebook showing how L2 loss converges faster using
+nesterov, adam, adagrad. 
+
+huber loss
+
+XGBoost
+
+Curse of Dimensionality
+
