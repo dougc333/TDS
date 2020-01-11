@@ -1,4 +1,0 @@
-
-      [console_scripts]
-      hello=cli_project.hello:cli
-   

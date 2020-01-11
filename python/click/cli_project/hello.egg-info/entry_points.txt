@@ -1,4 +1,0 @@
-
-      [console_scripts]
-      hello=h6:cli
-   
